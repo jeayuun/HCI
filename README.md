@@ -4,7 +4,9 @@
 <h2 align="center">Group 2: HCI Final Project</h1>
 
 > a tower building game based on ES6 and Canvas (Tower Bloxx Deluxe Skyscraper)
-
+<p align="center">
+  <img src="sneakpeek.png" />
+</p>
 ## Game Rule
 
 The following are the default game rule:
