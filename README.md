@@ -7,6 +7,8 @@
 <p align="center">
   <img src="sneakpeek.png" />
 </p>
+
+
 ## Game Rule
 
 The following are the default game rule:
