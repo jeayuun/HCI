@@ -3,7 +3,7 @@
 <h1 align="center">Building Sinta🍃</h1>
 <h2 align="center">Group 2: HCI Final Project</h1>
 
-> a tower building game based on ES6 and Canvas (Tower Bloxx Deluxe Skyscraper)
+> a tower building game based on ES6 and Canvas (hulaan nyo anong building sa PUP char)
 <p align="center">
   <img src="sneakpeek.png" />
 </p>
