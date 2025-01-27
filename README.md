@@ -16,7 +16,7 @@
 Here are the default game rules for **Building Sinta**:
 
 - **Starting Health Points (HP)**: Every player begins the game with **3 HP**. 
-  - If a tower block is dropped and doesn't stack, **1 HP is deducted**. 
+  - If a building block is dropped and doesn't stack, **1 HP is deducted**. 
   - The game ends when all HP are depleted.
 
 - **Scoring System**:
